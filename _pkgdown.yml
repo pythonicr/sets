@@ -4,3 +4,5 @@ template:
   bootstrap: 5
   package: pyRomaticstemplate
 
+development:
+  mode: auto
