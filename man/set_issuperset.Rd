@@ -2,7 +2,7 @@
 % Please edit documentation in R/issuperset.R
 \name{set_issuperset}
 \alias{set_issuperset}
-\title{set_issuperset}
+\title{Test whether y is a subset of x.}
 \usage{
 set_issuperset(x, y)
 }
