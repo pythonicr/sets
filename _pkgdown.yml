@@ -2,7 +2,7 @@ url: https://pyromatics.github.io/sets/
 
 template:
   bootstrap: 5
-  package: pyRomaticstemplate
+  package: pythonicrtemplate
 
 development:
   mode: auto
