@@ -16,24 +16,27 @@
     <loc>https://pythonicr.github.io/sets/reference/index.html</loc>
   </url>
   <url>
-    <loc>https://pythonicr.github.io/sets/reference/set_difference.html</loc>
+    <loc>https://pythonicr.github.io/sets/reference/sets_difference.html</loc>
   </url>
   <url>
-    <loc>https://pythonicr.github.io/sets/reference/set_equal.html</loc>
+    <loc>https://pythonicr.github.io/sets/reference/sets_equal.html</loc>
   </url>
   <url>
-    <loc>https://pythonicr.github.io/sets/reference/set_intersection.html</loc>
+    <loc>https://pythonicr.github.io/sets/reference/sets_intersection.html</loc>
   </url>
   <url>
-    <loc>https://pythonicr.github.io/sets/reference/set_issubset.html</loc>
+    <loc>https://pythonicr.github.io/sets/reference/sets_isdisjoint.html</loc>
   </url>
   <url>
-    <loc>https://pythonicr.github.io/sets/reference/set_issuperset.html</loc>
+    <loc>https://pythonicr.github.io/sets/reference/sets_issubset.html</loc>
   </url>
   <url>
-    <loc>https://pythonicr.github.io/sets/reference/set_symmetric_difference.html</loc>
+    <loc>https://pythonicr.github.io/sets/reference/sets_issuperset.html</loc>
   </url>
   <url>
-    <loc>https://pythonicr.github.io/sets/reference/set_union.html</loc>
+    <loc>https://pythonicr.github.io/sets/reference/sets_symmetric_difference.html</loc>
+  </url>
+  <url>
+    <loc>https://pythonicr.github.io/sets/reference/sets_union.html</loc>
   </url>
 </urlset>
