@@ -1,4 +1,7 @@
 .reduce <- function(fn, ...) {
+  if (...length() == 1L) {
+    return(...elt(1L))
+  }
   out <- fn(
     data.table::data.table(...elt(1)),
     data.table::data.table(...elt(2))
