@@ -7,7 +7,7 @@
 #' @param y Another vector to compare with `x`.
 #' @return `TRUE` if `x` and `y` contain the same elements, otherwise `FALSE`.
 #' @examples
-#' set_equal(c(1, 2, 3), c(3, 1, 2))
+#' sets_equal(c(1, 2, 3), c(3, 1, 2))
 #' @export
 sets_equal <- function(x, y) {
   checkmate::test_set_equal(x, y)

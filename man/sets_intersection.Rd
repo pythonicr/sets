@@ -19,7 +19,7 @@ A vector containing elements common to all sets.
 This function mimics Python's \code{set.intersection()} method.
 }
 \examples{
-set_intersection(c(1, 2, 3), c(2, 3, 4), c(3, 4, 5))
+sets_intersection(c(1, 2, 3), c(2, 3, 4), c(3, 4, 5))
 }
 \seealso{
 \href{https://docs.python.org/3/library/stdtypes.html#frozenset.intersection}{Python set.intersection() documentation}

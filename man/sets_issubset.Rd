@@ -19,7 +19,7 @@ sets_issubset(x, y)
 This function is similar to Python's \code{set.issubset()} method.
 }
 \examples{
-set_issubset(c(1, 2), c(1, 2, 3))
+sets_issubset(c(1, 2), c(1, 2, 3))
 }
 \seealso{
 \href{https://docs.python.org/3/library/stdtypes.html#frozenset.issubset}{Python set.issubset() documentation}

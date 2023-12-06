@@ -19,7 +19,7 @@ sets_issuperset(x, y)
 This function is similar to Python's \code{set.issuperset()} method.
 }
 \examples{
-set_issuperset(c(1, 2, 3), c(2, 3))
+sets_issuperset(c(1, 2, 3), c(2, 3))
 }
 \seealso{
 \href{https://docs.python.org/3/library/stdtypes.html#frozenset.issuperset}{Python set.issuperset() documentation}

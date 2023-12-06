@@ -19,7 +19,7 @@ A set containing all unique elements from all vectors.
 This function is similar to Python's \code{set.union()} method.
 }
 \examples{
-set_union(c(1, 2, 3), c(3, 4, 5))
+sets_union(c(1, 2, 3), c(3, 4, 5))
 }
 \seealso{
 \href{https://docs.python.org/3/library/stdtypes.html#frozenset.union}{Python set.union() documentation}

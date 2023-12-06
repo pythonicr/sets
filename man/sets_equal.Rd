@@ -19,5 +19,5 @@ sets_equal(x, y)
 This function is similar to Python's \code{set.__eq__()} method.
 }
 \examples{
-set_equal(c(1, 2, 3), c(3, 1, 2))
+sets_equal(c(1, 2, 3), c(3, 1, 2))
 }

@@ -19,7 +19,7 @@ A vector containing elements unique to either \code{x} or \code{y}.
 both. This function mimics Python's \code{set.symmetric_difference()} method.
 }
 \examples{
-set_symmetric_difference(c(1, 2, 3), c(3, 4, 5))
+sets_symmetric_difference(c(1, 2, 3), c(3, 4, 5))
 }
 \seealso{
 \href{https://docs.python.org/3/library/stdtypes.html#frozenset.symmetric_difference}{Python set.symmetric_difference() documentation} # nolint

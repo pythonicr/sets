@@ -7,7 +7,7 @@
 #' @param y Another vector to compare with.
 #' @return `TRUE` if `x` is a superset of `y`, otherwise `FALSE`.
 #' @examples
-#' set_issuperset(c(1, 2, 3), c(2, 3))
+#' sets_issuperset(c(1, 2, 3), c(2, 3))
 #' @seealso
 #' [Python set.issuperset() documentation](https://docs.python.org/3/library/stdtypes.html#frozenset.issuperset)
 #' @export

@@ -7,7 +7,7 @@
 #' @param ... Additional vector sets to compare against `x`.
 #' @return A vector containing elements unique to `x`.
 #' @examples
-#' set_difference(c(1, 2, 3), c(2, 3, 4))
+#' sets_difference(c(1, 2, 3), c(2, 3, 4))
 #' @seealso
 #' [Python set.difference() documentation](https://docs.python.org/3/library/stdtypes.html#frozenset.difference)
 #' @export

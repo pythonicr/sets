@@ -19,7 +19,7 @@ A vector containing elements unique to \code{x}.
 This function mimics the behavior of Python's \code{set.difference()} method.
 }
 \examples{
-set_difference(c(1, 2, 3), c(2, 3, 4))
+sets_difference(c(1, 2, 3), c(2, 3, 4))
 }
 \seealso{
 \href{https://docs.python.org/3/library/stdtypes.html#frozenset.difference}{Python set.difference() documentation}

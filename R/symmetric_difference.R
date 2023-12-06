@@ -7,7 +7,7 @@
 #' @param y Another vector to compare with.
 #' @return A vector containing elements unique to either `x` or `y`.
 #' @examples
-#' set_symmetric_difference(c(1, 2, 3), c(3, 4, 5))
+#' sets_symmetric_difference(c(1, 2, 3), c(3, 4, 5))
 #' @seealso
 #' [Python set.symmetric_difference() documentation](https://docs.python.org/3/library/stdtypes.html#frozenset.symmetric_difference) # nolint
 #' @export
