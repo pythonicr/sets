@@ -1,5 +1,5 @@
 Package: sets
-Title: Python-ish set functions in R
+Title: Python-ish Set Functions in R
 Version: 0.0.1
 Authors@R: 
     person("Garrett", "Shipley", , "garrett.shipley7@gmail.com", role = c("aut", "cre"),
@@ -15,7 +15,7 @@ Imports:
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-Config/Needs/website: pyRomatics/pyRomaticstemplate
-URL: https://github.com/pyRomatics/sets,
-    https://pyromatics.github.io/sets/
-BugReports: https://github.com/pyRomatics/sets/issues
+Config/Needs/website: pythonicr/pythonicrtemplate
+URL: https://github.com/pythonicr/sets,
+    https://pythonicr.github.io/sets/
+BugReports: https://github.com/pythonicr/sets/issues
