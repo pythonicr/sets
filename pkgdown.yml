@@ -1,9 +1,8 @@
 pandoc: 3.1.11
-pkgdown: 2.0.9
+pkgdown: 2.1.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-06-12T14:56Z
+last_built: 2024-08-27T22:02Z
 urls:
   reference: https://pythonicr.github.io/sets/reference
   article: https://pythonicr.github.io/sets/articles
-
