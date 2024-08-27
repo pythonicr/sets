@@ -1,7 +1,7 @@
-#' Check if Two Sets are Equal
+#' @title Check whther two sets are equal
 #'
-#' `set_equal` checks if two sets `x` and `y` contain the same elements.
-#' This function is similar to Python's `set.__eq__()` method.
+#' @description `set_equal` checks if two sets `x` and `y` contain the same elements. This function is similar to
+#' Python's `set.__eq__()` method.
 #'
 #' @param x A vector.
 #' @param y Another vector to compare with `x`.
