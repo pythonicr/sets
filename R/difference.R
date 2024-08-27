@@ -1,7 +1,7 @@
-#' Compute the Difference Between Sets
+#' @title Compute set difference
 #'
-#' `set_difference` returns the elements in `x` that are not in the other sets.
-#' This function mimics the behavior of Python's `set.difference()` method.
+#' @description `set_difference` returns the elements in `x` that are not in the other sets. This function mimics the
+#' behavior of Python's `set.difference()` method.
 #'
 #' @param x A vector.
 #' @param ... Additional vector sets to compare against `x`.
